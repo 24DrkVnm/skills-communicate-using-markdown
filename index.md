@@ -6,6 +6,6 @@
 var myVar = "Hello, world!";
 ```
 
--[ ] First option
--[ ] second option 
--[ ] third option 
+- [ ] First option
+- [ ] second option 
+- [ ] third option 
