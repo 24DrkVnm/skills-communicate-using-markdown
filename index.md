@@ -5,3 +5,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+-[ ] First option
+-[ ] second option 
+-[ ] third option 
